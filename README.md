@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shazidian
+- 👋 Hi, I’m diana!!
 - 👀 I’m interested in Informatics Technology
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me 
-- 😄 Pronouns: diana
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm a fast learner, but sometimes i'm a lazy person
 
 <!---
